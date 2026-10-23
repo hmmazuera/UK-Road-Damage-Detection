@@ -2,7 +2,7 @@
 
 An end-to-end Computer Vision application for road surface damage detection using YOLOv8n, transfer learning, Streamlit and Docker, deployed on AWS EC2.
 
-**[Open Application](http://52.56.100.94:8501)**
+**[Live DEMO](http://52.56.100.94:8501)**
 
 ## Project Overview
 
